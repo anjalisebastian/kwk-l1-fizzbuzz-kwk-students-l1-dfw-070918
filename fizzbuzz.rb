@@ -4,3 +4,4 @@ elsif n%3==0
   puts "Fizz" 
 else n%5==0 
   puts "Buzz"
+end
