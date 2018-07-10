@@ -5,4 +5,5 @@ def fizzbuzz(n)
     puts "Fizz" 
   else n%5==0 
     puts "Buzz"
+  end
 end
