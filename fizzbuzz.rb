@@ -8,3 +8,4 @@ def fizzbuzz(n)
   else
   end
 end
+fizzbuzz(n)
