@@ -3,7 +3,8 @@ def fizzbuzz(n)
     "FizzBuzz"
   elsif n%3==0 
     "Fizz" 
-  else n%5==0 
+  elsif n%5==0 
     "Buzz"
+  else
   end
 end
